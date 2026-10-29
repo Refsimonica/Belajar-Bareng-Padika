@@ -1,0 +1,6 @@
+Rencana belajar program
+-html
+-membuat tulisan teks pada halaman web
+membuat kolom
+-css
+-javascript
