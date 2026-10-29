@@ -4,3 +4,5 @@ Rencana belajar program
 membuat kolom
 -css
 -javascript
+fundamental belajar
+
